@@ -1,2 +1,8 @@
-# ignorar carpeta rawData
-rawData/
+# ignorar carpeta data
+data/
+.idea/
+md/
+.claude/
+.venv/
+figures/
+results/
