@@ -9,6 +9,7 @@ y hace append al archivo de salida. Nunca carga más de 1 CSV en RAM.
 El CSV más grande tiene 406,575 filas → ~84k tras filtros → seguro en memoria.
 """
 
+import time
 import pandas as pd
 from pathlib import Path
 
@@ -85,13 +86,14 @@ def clean_prefecture(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def main() -> None:
+    # ── Inicio del cronómetro total ──────────────────────────────────────────
+    start_total = time.time()
+
     # Verificar que exista el catálogo de prefecturas
     index_path = RAW_DIR / "index.csv"
     if not index_path.exists():
         raise FileNotFoundError(f"No se encontró {index_path}")
 
-    # Cargar catálogo de prefecturas (informativo: el merge se hace en notebook
-    # si se desea agregar nombre japonés). El nombre en inglés ya viene en cada CSV.
     index_df = pd.read_csv(index_path)
     print(f"Catálogo cargado: {len(index_df)} prefecturas")
 
@@ -102,6 +104,7 @@ def main() -> None:
 
     write_header = True
     total_rows = 0
+    total_original = 0
 
     # Procesar cada CSV de forma incremental
     for num in range(1, 48):
@@ -117,6 +120,7 @@ def main() -> None:
             continue
 
         rows_original = len(df)
+        total_original += rows_original
         df_clean = clean_prefecture(df)
 
         if df_clean.empty:
@@ -134,9 +138,15 @@ def main() -> None:
             f"({pct:5.1f}%)"
         )
 
-    # Resumen final
+    # ── Métricas de velocidad ────────────────────────────────────────────────
+    elapsed_total = time.time() - start_total
+
     print(f"\n✓ Dataset limpio guardado en: {output_path}")
-    print(f"  Total registros: {total_rows:,}")
+    print(f"  Total registros limpios : {total_rows:,}")
+    print(f"  Total registros crudos  : {total_original:,}")
+    print(f"  Tiempo total            : {elapsed_total:.1f} segundos")
+    print(f"  Velocidad (filas crudas): {total_original / elapsed_total:,.0f} filas/segundo")
+    print(f"  Velocidad (filas limpias): {total_rows / elapsed_total:,.0f} filas/segundo")
 
     if total_rows == 0:
         print("  ⚠ El archivo de salida está vacío — revisar filtros.")
