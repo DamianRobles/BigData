@@ -4,6 +4,4 @@ data/
 md/
 .claude/
 .venv/
-figures/
-results/
 OLDanalysis.ipynb

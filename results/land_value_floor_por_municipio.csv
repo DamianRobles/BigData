@@ -1,0 +1,550 @@
+Prefecture,Municipality,median_price,count,median_area,price_per_m2
+Aichi Prefecture,"Atsuta Ward,Nagoya City",23000000.0,28,132.5,173584.90566037735
+Aichi Prefecture,"Chikusa Ward,Nagoya City",40000000.0,45,155.0,258064.51612903227
+Aichi Prefecture,Chita City,12000000.0,11,240.0,50000.0
+Aichi Prefecture,Gamagori City,16500000.0,14,290.0,56896.55172413793
+Aichi Prefecture,Handa City,14500000.0,16,205.0,70731.70731707317
+Aichi Prefecture,"Higashi Ward,Nagoya City",38000000.0,23,135.0,281481.48148148146
+Aichi Prefecture,Ichinomiya City,12000000.0,38,245.0,48979.5918367347
+Aichi Prefecture,Inuyama City,11000000.0,13,200.0,55000.0
+Aichi Prefecture,Kasugai City,15000000.0,18,140.0,107142.85714285714
+Aichi Prefecture,"Kita Ward,Nagoya City",17500000.0,28,125.0,140000.0
+Aichi Prefecture,"Meito Ward,Nagoya City",35000000.0,10,225.0,155555.55555555556
+Aichi Prefecture,"Midori Ward,Nagoya City",15000000.0,17,250.0,60000.0
+Aichi Prefecture,"Minami Ward,Nagoya City",16000000.0,57,135.0,118518.51851851853
+Aichi Prefecture,"Minato Ward,Nagoya City",20500000.0,20,157.5,130158.73015873016
+Aichi Prefecture,"Mizuho Ward,Nagoya City",23000000.0,47,110.0,209090.9090909091
+Aichi Prefecture,"Moriyama Ward,Nagoya City",25000000.0,13,180.0,138888.88888888888
+Aichi Prefecture,"Naka Ward,Nagoya City",67500000.0,52,130.0,519230.76923076925
+Aichi Prefecture,"Nakagawa Ward,Nagoya City",26000000.0,38,205.0,126829.26829268293
+Aichi Prefecture,"Nakamura Ward,Nagoya City",20000000.0,92,132.5,150943.3962264151
+Aichi Prefecture,"Nishi Ward,Nagoya City",24000000.0,34,145.0,165517.24137931035
+Aichi Prefecture,Okazaki City,18000000.0,37,135.0,133333.33333333334
+Aichi Prefecture,Owariasahi City,21000000.0,10,155.0,135483.87096774194
+Aichi Prefecture,Seto City,11000000.0,17,240.0,45833.333333333336
+Aichi Prefecture,"Showa Ward,Nagoya City",40500000.0,42,172.5,234782.60869565216
+Aichi Prefecture,Toyoake City,17000000.0,10,210.0,80952.38095238095
+Aichi Prefecture,Toyohashi City,13000000.0,45,130.0,100000.0
+Aichi Prefecture,Toyokawa City,11500000.0,14,190.0,60526.31578947369
+Aichi Prefecture,Toyota City,21000000.0,20,200.0,105000.0
+Akita Prefecture,Akita City,4450000.0,52,205.0,21707.317073170732
+Akita Prefecture,Daisen City,3300000.0,11,290.0,11379.310344827587
+Akita Prefecture,Kazuno City,2500000.0,13,330.0,7575.757575757576
+Akita Prefecture,Noshiro City,3300000.0,19,260.0,12692.307692307691
+Akita Prefecture,Odate City,2100000.0,11,170.0,12352.941176470587
+Akita Prefecture,Yokote City,3250000.0,16,290.0,11206.896551724138
+Aomori Prefecture,Aomori City,6200000.0,73,210.0,29523.809523809523
+Aomori Prefecture,Goshogawara City,2250000.0,10,270.0,8333.333333333334
+Aomori Prefecture,Hachinohe City,3750000.0,38,225.0,16666.666666666668
+Aomori Prefecture,Hirosaki City,5000000.0,29,185.0,27027.027027027027
+Chiba Prefecture,Choshi City,10000000.0,14,180.0,55555.555555555555
+Chiba Prefecture,"Chuo Ward,Chiba City",22500000.0,44,162.5,138461.53846153847
+Chiba Prefecture,Funabashi City,17000000.0,75,155.0,109677.41935483871
+Chiba Prefecture,Futtsu City,5400000.0,11,330.0,16363.636363636364
+Chiba Prefecture,"Hanamigawa Ward,Chiba City",9000000.0,13,130.0,69230.76923076923
+Chiba Prefecture,Ichihara City,16000000.0,10,205.0,78048.78048780488
+Chiba Prefecture,Ichikawa City,21000000.0,58,137.5,152727.27272727274
+Chiba Prefecture,"Inage Ward,Chiba City",37000000.0,13,220.0,168181.81818181818
+Chiba Prefecture,Kamagaya City,22000000.0,13,150.0,146666.66666666666
+Chiba Prefecture,Kashiwa City,16500000.0,48,162.5,101538.46153846153
+Chiba Prefecture,Kisarazu City,7200000.0,17,280.0,25714.285714285714
+Chiba Prefecture,Matsudo City,23500000.0,54,162.5,144615.38461538462
+Chiba Prefecture,Minamiboso City,4800000.0,13,175.0,27428.571428571428
+Chiba Prefecture,Mobara City,4800000.0,14,255.0,18823.529411764706
+Chiba Prefecture,Nagareyama City,22000000.0,19,175.0,125714.28571428571
+Chiba Prefecture,Narashino City,24000000.0,17,125.0,192000.0
+Chiba Prefecture,Noda City,9000000.0,10,212.5,42352.94117647059
+Chiba Prefecture,Sakura City,7500000.0,18,150.0,50000.0
+Chiba Prefecture,Tateyama City,6500000.0,21,230.0,28260.869565217392
+Chiba Prefecture,"Wakaba Ward,Chiba City",20000000.0,10,250.0,80000.0
+Chiba Prefecture,Yachiyo City,12000000.0,15,135.0,88888.88888888889
+Ehime Prefecture,Imabari City,6000000.0,89,180.0,33333.333333333336
+Ehime Prefecture,Matsuyama City,11000000.0,111,150.0,73333.33333333333
+Ehime Prefecture,Niihama City,4800000.0,13,180.0,26666.666666666668
+Ehime Prefecture,Saijo City,6000000.0,15,240.0,25000.0
+Ehime Prefecture,Shikokuchuo City,5350000.0,10,127.5,41960.78431372549
+Ehime Prefecture,Uwajima City,7250000.0,20,165.0,43939.393939393936
+Ehime Prefecture,Yawatahama City,5500000.0,10,142.5,38596.491228070176
+Fukui Prefecture,Fukui City,9350000.0,54,160.0,58437.5
+Fukui Prefecture,Obama City,4500000.0,10,270.0,16666.666666666668
+Fukui Prefecture,Tsuruga City,4950000.0,14,200.0,24750.0
+Fukuoka Prefecture,Asakura City,4100000.0,12,220.0,18636.363636363636
+Fukuoka Prefecture,"Chuo Ward,Fukuoka City",43000000.0,59,140.0,307142.85714285716
+Fukuoka Prefecture,Dazaifu City,17000000.0,19,300.0,56666.666666666664
+Fukuoka Prefecture,"Hakata Ward,Fukuoka City",20500000.0,62,122.5,167346.9387755102
+Fukuoka Prefecture,"Higashi Ward,Fukuoka City",16000000.0,56,220.0,72727.27272727272
+Fukuoka Prefecture,Iizuka City,4500000.0,24,145.0,31034.48275862069
+Fukuoka Prefecture,Itoshima City,11000000.0,19,330.0,33333.333333333336
+Fukuoka Prefecture,"Jonan Ward,Fukuoka City",15000000.0,21,185.0,81081.08108108108
+Fukuoka Prefecture,Kasuga City,16000000.0,13,200.0,80000.0
+Fukuoka Prefecture,"Kokurakita Ward,Kitakyushu City",7100000.0,60,165.0,43030.30303030303
+Fukuoka Prefecture,"Kokuraminami Ward,Kitakyushu City",9800000.0,39,260.0,37692.307692307695
+Fukuoka Prefecture,Kurume City,11000000.0,49,230.0,47826.086956521736
+Fukuoka Prefecture,"Minami Ward,Fukuoka City",25000000.0,43,230.0,108695.65217391304
+Fukuoka Prefecture,"Moji Ward,Kitakyushu City",5650000.0,38,175.0,32285.714285714286
+Fukuoka Prefecture,Munakata City,9800000.0,27,380.0,25789.473684210527
+Fukuoka Prefecture,Nakama City,4000000.0,11,320.0,12500.0
+Fukuoka Prefecture,"Nishi Ward,Fukuoka City",15000000.0,13,150.0,100000.0
+Fukuoka Prefecture,Nogata City,7500000.0,15,300.0,25000.0
+Fukuoka Prefecture,Ogori City,9750000.0,10,285.0,34210.52631578947
+Fukuoka Prefecture,Omuta City,4700000.0,42,225.0,20888.88888888889
+Fukuoka Prefecture,Onojo City,30000000.0,13,240.0,125000.0
+Fukuoka Prefecture,"Sawara Ward,Fukuoka City",29000000.0,23,220.0,131818.18181818182
+Fukuoka Prefecture,Tagawa City,3900000.0,14,197.5,19746.835443037973
+Fukuoka Prefecture,"Tobata Ward,Kitakyushu City",11000000.0,18,162.5,67692.30769230769
+Fukuoka Prefecture,Ukiha City,3500000.0,12,235.0,14893.617021276596
+Fukuoka Prefecture,"Wakamatsu Ward,Kitakyushu City",4900000.0,23,190.0,25789.473684210527
+Fukuoka Prefecture,"Yahatahigashi Ward,Kitakyushu City",5400000.0,31,135.0,40000.0
+Fukuoka Prefecture,"Yahatanishi Ward,Kitakyushu City",8950000.0,64,225.0,39777.77777777778
+Fukuoka Prefecture,Yanagawa City,4400000.0,11,320.0,13750.0
+Fukushima Prefecture,Aizuwakamatsu City,6000000.0,31,200.0,30000.0
+Fukushima Prefecture,Fukushima City,12000000.0,92,230.0,52173.913043478264
+Fukushima Prefecture,Iwaki City,8500000.0,32,265.0,32075.471698113208
+Fukushima Prefecture,Kitakata City,4800000.0,12,315.0,15238.095238095239
+Fukushima Prefecture,Koriyama City,10000000.0,27,260.0,38461.53846153846
+Fukushima Prefecture,Minamisoma City,8000000.0,15,370.0,21621.62162162162
+Fukushima Prefecture,Nihonmatsu City,7500000.0,15,240.0,31250.0
+Fukushima Prefecture,Shirakawa City,19500000.0,16,200.0,97500.0
+Gifu Prefecture,Ena City,6800000.0,10,210.0,32380.95238095238
+Gifu Prefecture,Gifu City,9500000.0,114,112.5,84444.44444444444
+Gifu Prefecture,Gujo City,4100000.0,11,260.0,15769.23076923077
+Gifu Prefecture,Kakamigahara City,14000000.0,19,260.0,53846.153846153844
+Gifu Prefecture,Nakatsugawa City,7850000.0,20,275.0,28545.454545454544
+Gifu Prefecture,Ogaki City,10250000.0,32,137.5,74545.45454545454
+Gifu Prefecture,Tajimi City,8300000.0,22,390.0,21282.05128205128
+Gifu Prefecture,Takayama City,7100000.0,30,110.0,64545.454545454544
+Gifu Prefecture,Toki City,4800000.0,11,185.0,25945.945945945947
+Gunma Prefecture,Isesaki City,5500000.0,17,165.0,33333.333333333336
+Gunma Prefecture,Kiryu City,6400000.0,19,240.0,26666.666666666668
+Gunma Prefecture,Maebashi City,9000000.0,57,210.0,42857.142857142855
+Gunma Prefecture,Ota City,6250000.0,12,230.0,27173.91304347826
+Gunma Prefecture,Shibukawa City,4250000.0,12,315.0,13492.063492063493
+Gunma Prefecture,Takasaki City,7100000.0,47,185.0,38378.37837837838
+Gunma Prefecture,Tomioka City,3000000.0,11,240.0,12500.0
+Hiroshima Prefecture,"Aki Ward,Hiroshima City",14500000.0,16,220.0,65909.09090909091
+Hiroshima Prefecture,"Asakita Ward,Hiroshima City",4550000.0,10,220.0,20681.81818181818
+Hiroshima Prefecture,"Asaminami Ward,Hiroshima City",22500000.0,20,162.5,138461.53846153847
+Hiroshima Prefecture,"Fuchu Town,Aki County",19500000.0,20,197.5,98734.17721518988
+Hiroshima Prefecture,Fukuyama City,8900000.0,77,200.0,44500.0
+Hiroshima Prefecture,Hatsukaichi City,14000000.0,17,200.0,70000.0
+Hiroshima Prefecture,"Higashi Ward,Hiroshima City",25000000.0,18,142.5,175438.59649122806
+Hiroshima Prefecture,"Kaita Town,Aki County",35000000.0,11,180.0,194444.44444444444
+Hiroshima Prefecture,Kure City,9300000.0,72,175.0,53142.857142857145
+Hiroshima Prefecture,Mihara City,5000000.0,25,115.0,43478.260869565216
+Hiroshima Prefecture,"Minami Ward,Hiroshima City",20000000.0,23,90.0,222222.22222222222
+Hiroshima Prefecture,"Naka Ward,Hiroshima City",40000000.0,26,97.5,410256.41025641025
+Hiroshima Prefecture,"Nishi Ward,Hiroshima City",22000000.0,34,145.0,151724.1379310345
+Hiroshima Prefecture,Onomichi City,5450000.0,34,100.0,54500.0
+Hiroshima Prefecture,"Saeki Ward,Hiroshima City",30000000.0,17,210.0,142857.14285714287
+Hiroshima Prefecture,Shobara City,3050000.0,10,182.5,16712.328767123287
+Hiroshima Prefecture,Takehara City,3900000.0,10,130.0,30000.0
+Hokkaido,Asahikawa City,9150000.0,34,265.0,34528.301886792455
+Hokkaido,"Atsubetsu Ward,Sapporo City",25500000.0,10,220.0,115909.09090909091
+Hokkaido,Chitose City,7500000.0,17,220.0,34090.90909090909
+Hokkaido,"Chuo Ward,Sapporo City",34000000.0,44,215.0,158139.53488372092
+Hokkaido,"Engaru Town,Monbetsu County",3000000.0,11,280.0,10714.285714285714
+Hokkaido,Furano City,3900000.0,11,280.0,13928.57142857143
+Hokkaido,Hakodate City,7900000.0,35,200.0,39500.0
+Hokkaido,"Higashi Ward,Sapporo City",18000000.0,43,230.0,78260.86956521739
+Hokkaido,Iwamizawa City,1850000.0,12,275.0,6727.272727272727
+Hokkaido,"Kita Ward,Sapporo City",13000000.0,25,190.0,68421.05263157895
+Hokkaido,Kitami City,4850000.0,30,275.0,17636.363636363636
+Hokkaido,Kushiro City,3850000.0,26,225.0,17111.11111111111
+Hokkaido,Muroran City,3900000.0,27,195.0,20000.0
+Hokkaido,Nayoro City,2200000.0,26,280.0,7857.142857142857
+Hokkaido,"Nishi Ward,Sapporo City",31500000.0,26,270.0,116666.66666666667
+Hokkaido,Noboribetsu City,3400000.0,17,230.0,14782.608695652174
+Hokkaido,Obihiro City,6800000.0,39,270.0,25185.185185185186
+Hokkaido,Otaru City,3000000.0,54,172.5,17391.304347826088
+Hokkaido,"Shiroishi Ward,Sapporo City",14000000.0,50,195.0,71794.8717948718
+Hokkaido,Takikawa City,1800000.0,10,245.0,7346.938775510204
+Hokkaido,"Teine Ward,Sapporo City",15000000.0,15,200.0,75000.0
+Hokkaido,Tomakomai City,6750000.0,22,240.0,28125.0
+Hokkaido,"Toyohira Ward,Sapporo City",28000000.0,35,220.0,127272.72727272728
+Hyogo Prefecture,Akashi City,13500000.0,98,135.0,100000.0
+Hyogo Prefecture,Ako City,9400000.0,10,185.0,50810.81081081081
+Hyogo Prefecture,Amagasaki City,13000000.0,225,90.0,144444.44444444444
+Hyogo Prefecture,Ashiya City,41500000.0,22,170.0,244117.64705882352
+Hyogo Prefecture,"Chuo Ward,Kobe City",22000000.0,65,75.0,293333.3333333333
+Hyogo Prefecture,"Higashinada Ward,Kobe City",35000000.0,37,140.0,250000.0
+Hyogo Prefecture,Himeji City,10000000.0,120,162.5,61538.46153846154
+Hyogo Prefecture,"Hyogo Ward,Kobe City",14500000.0,66,85.0,170588.23529411765
+Hyogo Prefecture,Itami City,20000000.0,45,125.0,160000.0
+Hyogo Prefecture,Kakogawa City,9500000.0,36,205.0,46341.46341463415
+Hyogo Prefecture,Kawanishi City,9000000.0,67,105.0,85714.28571428571
+Hyogo Prefecture,"Kita Ward,Kobe City",7000000.0,35,220.0,31818.18181818182
+Hyogo Prefecture,Miki City,15000000.0,12,355.0,42253.52112676056
+Hyogo Prefecture,"Nada Ward,Kobe City",17000000.0,61,100.0,170000.0
+Hyogo Prefecture,"Nagata Ward,Kobe City",6050000.0,82,97.5,62051.282051282054
+Hyogo Prefecture,"Nishi Ward,Kobe City",35000000.0,11,175.0,200000.0
+Hyogo Prefecture,Nishinomiya City,29000000.0,149,135.0,214814.8148148148
+Hyogo Prefecture,Sanda City,5700000.0,10,115.0,49565.217391304344
+Hyogo Prefecture,"Suma Ward,Kobe City",11000000.0,58,117.5,93617.02127659574
+Hyogo Prefecture,Takarazuka City,28000000.0,86,220.0,127272.72727272728
+Hyogo Prefecture,Takasago City,5000000.0,27,190.0,26315.78947368421
+Hyogo Prefecture,Tanba City,5400000.0,11,540.0,10000.0
+Hyogo Prefecture,"Tarumi Ward,Kobe City",12000000.0,114,140.0,85714.28571428571
+Hyogo Prefecture,Tatsuno City,6000000.0,12,187.5,32000.0
+Hyogo Prefecture,Toyooka City,5800000.0,29,150.0,38666.666666666664
+Ibaraki Prefecture,Chikusei City,4550000.0,10,360.0,12638.888888888889
+Ibaraki Prefecture,Hitachi City,8000000.0,23,260.0,30769.23076923077
+Ibaraki Prefecture,Hitachinaka City,5000000.0,15,240.0,20833.333333333332
+Ibaraki Prefecture,Mito City,10750000.0,24,205.0,52439.0243902439
+Ishikawa Prefecture,Hakusan City,6000000.0,24,200.0,30000.0
+Ishikawa Prefecture,Kahoku City,3250000.0,12,480.0,6770.833333333333
+Ishikawa Prefecture,Kanazawa City,6000000.0,91,85.0,70588.23529411765
+Ishikawa Prefecture,Komatsu City,5450000.0,34,200.0,27250.0
+Ishikawa Prefecture,Nanao City,4100000.0,14,192.5,21298.7012987013
+Iwate Prefecture,Kamaishi City,6500000.0,13,180.0,36111.11111111111
+Iwate Prefecture,Kitakami City,11000000.0,10,360.0,30555.555555555555
+Iwate Prefecture,Miyako City,6500000.0,15,155.0,41935.48387096774
+Iwate Prefecture,Morioka City,12500000.0,54,215.0,58139.53488372093
+Iwate Prefecture,Oshu City,4100000.0,20,280.0,14642.857142857143
+Kagawa Prefecture,Kan-onji City,5500000.0,15,155.0,35483.87096774193
+Kagawa Prefecture,Marugame City,3750000.0,22,157.5,23809.52380952381
+Kagawa Prefecture,Sakaide City,5000000.0,27,220.0,22727.272727272728
+Kagawa Prefecture,Sanuki City,2750000.0,18,197.5,13924.050632911392
+Kagawa Prefecture,Takamatsu City,7700000.0,157,145.0,53103.44827586207
+Kagoshima Prefecture,Ibusuki City,4000000.0,15,370.0,10810.81081081081
+Kagoshima Prefecture,Kagoshima City,11500000.0,84,117.5,97872.34042553192
+Kagoshima Prefecture,Kirishima City,7750000.0,12,445.0,17415.73033707865
+Kagoshima Prefecture,Makurazaki City,3000000.0,15,150.0,20000.0
+Kanagawa Prefecture,"Aoba Ward,Yokohama City",53000000.0,11,250.0,212000.0
+Kanagawa Prefecture,"Asahi Ward,Yokohama City",23000000.0,65,165.0,139393.9393939394
+Kanagawa Prefecture,"Asao Ward,Kawasaki City",33000000.0,35,210.0,157142.85714285713
+Kanagawa Prefecture,Chigasaki City,35500000.0,26,200.0,177500.0
+Kanagawa Prefecture,"Chuo Ward,Sagamihara City",31000000.0,16,182.5,169863.01369863015
+Kanagawa Prefecture,Fujisawa City,38000000.0,60,190.0,200000.0
+Kanagawa Prefecture,Hadano City,27000000.0,13,240.0,112500.0
+Kanagawa Prefecture,Hiratsuka City,36000000.0,13,130.0,276923.07692307694
+Kanagawa Prefecture,"Hodogaya Ward,Yokohama City",26500000.0,54,190.0,139473.68421052632
+Kanagawa Prefecture,"Isogo Ward,Yokohama City",26000000.0,38,200.0,130000.0
+Kanagawa Prefecture,"Izumi Ward,Yokohama City",21000000.0,25,165.0,127272.72727272728
+Kanagawa Prefecture,Kamakura City,30000000.0,51,230.0,130434.78260869565
+Kanagawa Prefecture,"Kanagawa Ward,Yokohama City",34000000.0,78,152.5,222950.81967213115
+Kanagawa Prefecture,"Kanazawa Ward,Yokohama City",23500000.0,30,147.5,159322.0338983051
+Kanagawa Prefecture,"Kawasaki Ward,Kawasaki City",47500000.0,32,130.0,365384.6153846154
+Kanagawa Prefecture,"Kohoku Ward,Yokohama City",38000000.0,101,140.0,271428.5714285714
+Kanagawa Prefecture,"Konan Ward,Yokohama City",22000000.0,49,170.0,129411.76470588235
+Kanagawa Prefecture,"Midori Ward,Yokohama City",30000000.0,15,200.0,150000.0
+Kanagawa Prefecture,"Minami Ward,Sagamihara City",34000000.0,18,192.5,176623.37662337662
+Kanagawa Prefecture,"Minami Ward,Yokohama City",18000000.0,76,115.0,156521.73913043478
+Kanagawa Prefecture,"Miyamae Ward,Kawasaki City",30500000.0,10,115.0,265217.39130434784
+Kanagawa Prefecture,"Naka Ward,Yokohama City",39500000.0,58,97.5,405128.2051282051
+Kanagawa Prefecture,"Nakahara Ward,Kawasaki City",40500000.0,46,132.5,305660.37735849054
+Kanagawa Prefecture,"Nishi Ward,Yokohama City",30000000.0,40,110.0,272727.2727272727
+Kanagawa Prefecture,Odawara City,13000000.0,37,210.0,61904.76190476191
+Kanagawa Prefecture,"Saiwai Ward,Kawasaki City",34000000.0,35,105.0,323809.5238095238
+Kanagawa Prefecture,"Sakae Ward,Yokohama City",44000000.0,17,195.0,225641.02564102566
+Kanagawa Prefecture,"Seya Ward,Yokohama City",24000000.0,27,170.0,141176.4705882353
+Kanagawa Prefecture,"Takatsu Ward,Kawasaki City",40500000.0,42,140.0,289285.71428571426
+Kanagawa Prefecture,"Tama Ward,Kawasaki City",32000000.0,31,165.0,193939.39393939395
+Kanagawa Prefecture,"Totsuka Ward,Yokohama City",27000000.0,38,180.0,150000.0
+Kanagawa Prefecture,"Tsurumi Ward,Yokohama City",31000000.0,66,162.5,190769.23076923078
+Kanagawa Prefecture,"Tsuzuki Ward,Yokohama City",51000000.0,14,170.0,300000.0
+Kanagawa Prefecture,Yamato City,22000000.0,26,132.5,166037.7358490566
+Kanagawa Prefecture,Yokosuka City,15000000.0,67,135.0,111111.11111111111
+Kanagawa Prefecture,Zama City,24000000.0,13,155.0,154838.70967741936
+Kanagawa Prefecture,Zushi City,31000000.0,18,190.0,163157.8947368421
+Kochi Prefecture,Kochi City,10000000.0,115,120.0,83333.33333333333
+Kumamoto Prefecture,"Chuo Ward,Kumamoto City",16000000.0,49,185.0,86486.48648648648
+Kumamoto Prefecture,Hitoyoshi City,5000000.0,22,320.0,15625.0
+Kumamoto Prefecture,"Kita Ward,Kumamoto City",8000000.0,24,240.0,33333.333333333336
+Kumamoto Prefecture,"Nishi Ward,Kumamoto City",7500000.0,18,180.0,41666.666666666664
+Kumamoto Prefecture,Yatsushiro City,4500000.0,24,320.0,14062.5
+Kyoto Prefecture,Ayabe City,8800000.0,11,170.0,51764.705882352944
+Kyoto Prefecture,Fukuchiyama City,7000000.0,16,140.0,50000.0
+Kyoto Prefecture,"Fushimi Ward,Kyoto City",9350000.0,124,72.5,128965.5172413793
+Kyoto Prefecture,"Higashiyama Ward,Kyoto City",23000000.0,35,80.0,287500.0
+Kyoto Prefecture,Joyo City,8500000.0,22,90.0,94444.44444444444
+Kyoto Prefecture,"Kamigyo Ward,Kyoto City",22500000.0,38,70.0,321428.5714285714
+Kyoto Prefecture,"Kita Ward,Kyoto City",20000000.0,55,85.0,235294.11764705883
+Kyoto Prefecture,Kyotanabe City,19500000.0,10,290.0,67241.37931034483
+Kyoto Prefecture,Kyotango City,3500000.0,11,240.0,14583.333333333334
+Kyoto Prefecture,Maizuru City,12000000.0,13,260.0,46153.846153846156
+Kyoto Prefecture,"Minami Ward,Kyoto City",17000000.0,63,95.0,178947.36842105264
+Kyoto Prefecture,Muko City,10000000.0,47,80.0,125000.0
+Kyoto Prefecture,Nagaokakyo City,24000000.0,33,120.0,200000.0
+Kyoto Prefecture,"Nakagyo Ward,Kyoto City",38000000.0,65,75.0,506666.6666666667
+Kyoto Prefecture,Nantan City,7300000.0,11,220.0,33181.818181818184
+Kyoto Prefecture,"Nishikyo Ward,Kyoto City",24500000.0,64,107.5,227906.97674418605
+Kyoto Prefecture,"Sakyo Ward,Kyoto City",23000000.0,68,112.5,204444.44444444444
+Kyoto Prefecture,"Shimogyo Ward,Kyoto City",29000000.0,60,72.5,400000.0
+Kyoto Prefecture,Uji City,7850000.0,100,92.5,84864.86486486487
+Kyoto Prefecture,"Ukyo Ward,Kyoto City",10000000.0,178,70.0,142857.14285714287
+Kyoto Prefecture,"Yamashina Ward,Kyoto City",9650000.0,66,95.0,101578.94736842105
+Mie Prefecture,Iga City,2800000.0,20,300.0,9333.333333333334
+Mie Prefecture,Ise City,4550000.0,44,165.0,27575.757575757576
+Mie Prefecture,Kameyama City,6250000.0,10,320.0,19531.25
+Mie Prefecture,"Komono Town,Mie County",8900000.0,10,510.0,17450.980392156864
+Mie Prefecture,Kuwana City,6750000.0,34,180.0,37500.0
+Mie Prefecture,Matsusaka City,6400000.0,24,175.0,36571.42857142857
+Mie Prefecture,Nabari City,7400000.0,16,230.0,32173.91304347826
+Mie Prefecture,Suzuka City,5500000.0,34,210.0,26190.47619047619
+Mie Prefecture,Tsu City,6450000.0,94,230.0,28043.478260869564
+Mie Prefecture,Yokkaichi City,5000000.0,110,165.0,30303.030303030304
+Miyagi Prefecture,"Aoba Ward,Sendai City",20000000.0,99,200.0,100000.0
+Miyagi Prefecture,Ishinomaki City,5700000.0,13,240.0,23750.0
+Miyagi Prefecture,"Izumi Ward,Sendai City",19500000.0,10,240.0,81250.0
+Miyagi Prefecture,Kesennuma City,3700000.0,12,220.0,16818.18181818182
+Miyagi Prefecture,"Miyagino Ward,Sendai City",9300000.0,16,182.5,50958.90410958904
+Miyagi Prefecture,Osaki City,4500000.0,20,300.0,15000.0
+Miyagi Prefecture,Shiogama City,4300000.0,16,210.0,20476.190476190477
+Miyagi Prefecture,"Taihaku Ward,Sendai City",11000000.0,23,220.0,50000.0
+Miyagi Prefecture,"Wakabayashi Ward,Sendai City",17500000.0,18,175.0,100000.0
+Miyazaki Prefecture,Miyakonojo City,4250000.0,30,225.0,18888.88888888889
+Miyazaki Prefecture,Miyazaki City,11000000.0,77,210.0,52380.95238095238
+Miyazaki Prefecture,Nichinan City,3500000.0,29,250.0,14000.0
+Miyazaki Prefecture,Nobeoka City,8250000.0,34,182.5,45205.479452054795
+Nagano Prefecture,Chikuma City,3100000.0,12,250.0,12400.0
+Nagano Prefecture,Iida City,5500000.0,47,220.0,25000.0
+Nagano Prefecture,Komoro City,2000000.0,10,210.0,9523.809523809523
+Nagano Prefecture,Matsumoto City,13000000.0,34,225.0,57777.77777777778
+Nagano Prefecture,Nagano City,11000000.0,78,235.0,46808.51063829787
+Nagano Prefecture,Nakano City,4250000.0,14,340.0,12500.0
+Nagano Prefecture,Saku City,8000000.0,10,425.0,18823.529411764706
+Nagano Prefecture,Shiojiri City,16000000.0,12,340.0,47058.82352941176
+Nagano Prefecture,Suwa City,3200000.0,15,130.0,24615.384615384617
+Nagano Prefecture,Suzaka City,7800000.0,13,240.0,32500.0
+Nagano Prefecture,Ueda City,7250000.0,28,250.0,29000.0
+Nagasaki Prefecture,Nagasaki City,12000000.0,101,165.0,72727.27272727272
+Nagasaki Prefecture,Omura City,9300000.0,17,390.0,23846.153846153848
+Nagasaki Prefecture,Sasebo City,9650000.0,38,215.0,44883.72093023256
+Nagasaki Prefecture,Shimabara City,8500000.0,19,300.0,28333.333333333332
+Nara Prefecture,Ikoma City,17500000.0,22,275.0,63636.36363636364
+Nara Prefecture,Kashiba City,12000000.0,17,270.0,44444.444444444445
+Nara Prefecture,Kashihara City,14000000.0,29,175.0,80000.0
+Nara Prefecture,Nara City,20000000.0,108,240.0,83333.33333333333
+Nara Prefecture,"Oji Town,Kitakatsuragi County",13500000.0,12,157.5,85714.28571428571
+Nara Prefecture,Tenri City,9100000.0,11,200.0,45500.0
+Nara Prefecture,Yamatokoriyama City,9000000.0,23,145.0,62068.96551724138
+Nara Prefecture,Yamatotakada City,4550000.0,32,137.5,33090.90909090909
+Niigata Prefecture,"Akiha Ward,Niigata City",4000000.0,38,225.0,17777.777777777777
+Niigata Prefecture,"Chuo Ward,Niigata City",10000000.0,87,140.0,71428.57142857143
+Niigata Prefecture,Gosen City,2750000.0,14,215.0,12790.697674418605
+Niigata Prefecture,"Higashi Ward,Niigata City",11000000.0,10,210.0,52380.95238095238
+Niigata Prefecture,Itoigawa City,4100000.0,19,180.0,22777.777777777777
+Niigata Prefecture,Joetsu City,4850000.0,64,210.0,23095.238095238095
+Niigata Prefecture,Kamo City,3700000.0,13,195.0,18974.358974358973
+Niigata Prefecture,Kashiwazaki City,4200000.0,10,215.0,19534.883720930233
+Niigata Prefecture,"Kita Ward,Niigata City",4850000.0,10,205.0,23658.536585365855
+Niigata Prefecture,Mitsuke City,3000000.0,10,155.0,19354.83870967742
+Niigata Prefecture,Murakami City,3400000.0,17,320.0,10625.0
+Niigata Prefecture,Nagaoka City,6000000.0,43,170.0,35294.117647058825
+Niigata Prefecture,"Nishi Ward,Niigata City",5800000.0,35,190.0,30526.315789473683
+Niigata Prefecture,"Nishikan Ward,Niigata City",1950000.0,10,167.5,11641.791044776119
+Niigata Prefecture,Sanjo City,5700000.0,27,165.0,34545.454545454544
+Niigata Prefecture,Shibata City,3750000.0,34,230.0,16304.347826086956
+Niigata Prefecture,Tokamachi City,3400000.0,14,220.0,15454.545454545454
+Niigata Prefecture,Tsubame City,2650000.0,30,165.0,16060.60606060606
+Oita Prefecture,Beppu City,8000000.0,59,190.0,42105.26315789474
+Oita Prefecture,Hita City,5100000.0,27,270.0,18888.88888888889
+Oita Prefecture,Nakatsu City,5500000.0,17,300.0,18333.333333333332
+Oita Prefecture,Oita City,13000000.0,79,210.0,61904.76190476191
+Oita Prefecture,Usuki City,3200000.0,13,135.0,23703.703703703704
+Okayama Prefecture,Bizen City,3350000.0,20,240.0,13958.333333333334
+Okayama Prefecture,"Higashi Ward,Okayama City",4250000.0,22,207.5,20481.927710843374
+Okayama Prefecture,"Kita Ward,Okayama City",13000000.0,151,140.0,92857.14285714286
+Okayama Prefecture,Kurashiki City,7000000.0,64,235.0,29787.23404255319
+Okayama Prefecture,"Naka Ward,Okayama City",15000000.0,15,240.0,62500.0
+Okayama Prefecture,Soja City,6450000.0,10,230.0,28043.478260869564
+Okayama Prefecture,Takahashi City,5000000.0,13,190.0,26315.78947368421
+Okayama Prefecture,Tsuyama City,4500000.0,26,325.0,13846.153846153846
+Okinawa Prefecture,Naha City,30500000.0,32,145.0,210344.8275862069
+Osaka Prefecture,"Abeno Ward,Osaka City",15000000.0,90,75.0,200000.0
+Osaka Prefecture,"Asahi Ward,Osaka City",13000000.0,80,75.0,173333.33333333334
+Osaka Prefecture,"Chuo Ward,Osaka City",76000000.0,130,82.5,921212.1212121212
+Osaka Prefecture,Daito City,12000000.0,62,110.0,109090.90909090909
+Osaka Prefecture,Fujiidera City,18000000.0,36,180.0,100000.0
+Osaka Prefecture,"Fukushima Ward,Osaka City",20000000.0,57,65.0,307692.3076923077
+Osaka Prefecture,Habikino City,8800000.0,43,160.0,55000.0
+Osaka Prefecture,"Higashi Ward,Sakai City",13000000.0,47,150.0,86666.66666666667
+Osaka Prefecture,"Higashinari Ward,Osaka City",17000000.0,69,65.0,261538.46153846153
+Osaka Prefecture,Higashiosaka City,9600000.0,274,100.0,96000.0
+Osaka Prefecture,"Higashisumiyoshi Ward,Osaka City",15000000.0,133,75.0,200000.0
+Osaka Prefecture,"Higashiyodogawa Ward,Osaka City",17000000.0,43,75.0,226666.66666666666
+Osaka Prefecture,Hirakata City,19500000.0,108,172.5,113043.47826086957
+Osaka Prefecture,"Hirano Ward,Osaka City",17500000.0,68,137.5,127272.72727272728
+Osaka Prefecture,Ibaraki City,23000000.0,77,135.0,170370.37037037036
+Osaka Prefecture,Ikeda City,20000000.0,57,135.0,148148.14814814815
+Osaka Prefecture,"Ikuno Ward,Osaka City",9000000.0,153,70.0,128571.42857142857
+Osaka Prefecture,Izumi City,13500000.0,34,137.5,98181.81818181818
+Osaka Prefecture,Izumiotsu City,15000000.0,23,115.0,130434.78260869565
+Osaka Prefecture,Izumisano City,8000000.0,35,250.0,32000.0
+Osaka Prefecture,"Joto Ward,Osaka City",12500000.0,80,80.0,156250.0
+Osaka Prefecture,Kadoma City,10000000.0,67,75.0,133333.33333333334
+Osaka Prefecture,Kaizuka City,12000000.0,24,255.0,47058.82352941176
+Osaka Prefecture,Kashiwara City,14000000.0,25,115.0,121739.13043478261
+Osaka Prefecture,Katano City,12000000.0,13,165.0,72727.27272727272
+Osaka Prefecture,Kawachinagano City,16000000.0,37,230.0,69565.21739130435
+Osaka Prefecture,Kishiwada City,8600000.0,47,145.0,59310.34482758621
+Osaka Prefecture,"Kita Ward,Osaka City",39500000.0,88,85.0,464705.8823529412
+Osaka Prefecture,"Kita Ward,Sakai City",18000000.0,63,105.0,171428.57142857142
+Osaka Prefecture,"Konohana Ward,Osaka City",11000000.0,33,70.0,157142.85714285713
+Osaka Prefecture,Matsubara City,6400000.0,88,90.0,71111.11111111111
+Osaka Prefecture,"Minato Ward,Osaka City",16000000.0,76,65.0,246153.84615384616
+Osaka Prefecture,Minoo City,40000000.0,41,280.0,142857.14285714287
+Osaka Prefecture,"Miyakojima Ward,Osaka City",19000000.0,64,67.5,281481.48148148146
+Osaka Prefecture,Moriguchi City,7500000.0,101,70.0,107142.85714285714
+Osaka Prefecture,"Naka Ward,Sakai City",19000000.0,14,280.0,67857.14285714286
+Osaka Prefecture,"Naniwa Ward,Osaka City",40000000.0,58,105.0,380952.38095238095
+Osaka Prefecture,Neyagawa City,8600000.0,145,85.0,101176.4705882353
+Osaka Prefecture,"Nishi Ward,Osaka City",64000000.0,54,145.0,441379.3103448276
+Osaka Prefecture,"Nishi Ward,Sakai City",15000000.0,67,140.0,107142.85714285714
+Osaka Prefecture,"Nishinari Ward,Osaka City",8300000.0,123,70.0,118571.42857142857
+Osaka Prefecture,"Nishiyodogawa Ward,Osaka City",13000000.0,53,100.0,130000.0
+Osaka Prefecture,"Sakai Ward,Sakai City",13500000.0,168,100.0,135000.0
+Osaka Prefecture,Sennan City,5800000.0,27,220.0,26363.636363636364
+Osaka Prefecture,Settsu City,15000000.0,23,100.0,150000.0
+Osaka Prefecture,Shijonawate City,5400000.0,31,90.0,60000.0
+Osaka Prefecture,"Shimamoto Town,Mishima County",30000000.0,11,150.0,200000.0
+Osaka Prefecture,Suita City,30000000.0,82,195.0,153846.15384615384
+Osaka Prefecture,"Suminoe Ward,Osaka City",7750000.0,60,52.5,147619.04761904763
+Osaka Prefecture,"Sumiyoshi Ward,Osaka City",11500000.0,136,60.0,191666.66666666666
+Osaka Prefecture,"Taisho Ward,Osaka City",10500000.0,42,67.5,155555.55555555556
+Osaka Prefecture,Takaishi City,4500000.0,24,60.0,75000.0
+Osaka Prefecture,Takatsuki City,26000000.0,102,160.0,162500.0
+Osaka Prefecture,"Tennoji Ward,Osaka City",26000000.0,75,60.0,433333.3333333333
+Osaka Prefecture,Tondabayashi City,8900000.0,20,200.0,44500.0
+Osaka Prefecture,Toyonaka City,20000000.0,178,110.0,181818.18181818182
+Osaka Prefecture,"Tsurumi Ward,Osaka City",25000000.0,22,140.0,178571.42857142858
+Osaka Prefecture,Yao City,15000000.0,129,100.0,150000.0
+Osaka Prefecture,"Yodogawa Ward,Osaka City",18500000.0,82,95.0,194736.84210526315
+Saga Prefecture,Imari City,5800000.0,12,250.0,23200.0
+Saga Prefecture,Karatsu City,5500000.0,20,220.0,25000.0
+Saga Prefecture,Ogi City,4200000.0,12,215.0,19534.883720930233
+Saga Prefecture,Saga City,7100000.0,38,205.0,34634.14634146341
+Saga Prefecture,Takeo City,4500000.0,10,320.0,14062.5
+Saga Prefecture,Taku City,5300000.0,10,280.0,18928.571428571428
+Saga Prefecture,Tosu City,5700000.0,25,310.0,18387.09677419355
+Saitama Prefecture,Ageo City,20000000.0,21,130.0,153846.15384615384
+Saitama Prefecture,Asaka City,13000000.0,31,65.0,200000.0
+Saitama Prefecture,"Chuo Ward,Saitama City",38000000.0,21,165.0,230303.0303030303
+Saitama Prefecture,Fujimi City,5000000.0,19,55.0,90909.09090909091
+Saitama Prefecture,Fujimino City,14000000.0,22,102.5,136585.36585365853
+Saitama Prefecture,Hanno City,8500000.0,13,185.0,45945.94594594595
+Saitama Prefecture,Iruma City,6600000.0,12,125.0,52800.0
+Saitama Prefecture,"Iwatsuki Ward,Saitama City",11000000.0,10,162.5,67692.30769230769
+Saitama Prefecture,Kasukabe City,6300000.0,11,105.0,60000.0
+Saitama Prefecture,Kawagoe City,16500000.0,28,135.0,122222.22222222222
+Saitama Prefecture,Kawaguchi City,17000000.0,77,75.0,226666.66666666666
+Saitama Prefecture,"Kita Ward,Saitama City",28000000.0,16,145.0,193103.44827586206
+Saitama Prefecture,Konosu City,15000000.0,14,147.5,101694.91525423729
+Saitama Prefecture,Koshigaya City,16000000.0,45,100.0,160000.0
+Saitama Prefecture,Kumagaya City,8200000.0,25,125.0,65600.0
+Saitama Prefecture,"Minami Ward,Saitama City",28500000.0,12,137.5,207272.72727272726
+Saitama Prefecture,Niiza City,12000000.0,14,80.0,150000.0
+Saitama Prefecture,"Omiya Ward,Saitama City",38000000.0,19,165.0,230303.0303030303
+Saitama Prefecture,Sayama City,19000000.0,18,157.5,120634.92063492064
+Saitama Prefecture,Shiki City,13000000.0,14,120.0,108333.33333333333
+Saitama Prefecture,Soka City,19000000.0,19,110.0,172727.27272727274
+Saitama Prefecture,Toda City,25000000.0,12,97.5,256410.2564102564
+Saitama Prefecture,Tokorozawa City,23000000.0,27,130.0,176923.07692307694
+Saitama Prefecture,"Urawa Ward,Saitama City",45000000.0,20,177.5,253521.12676056338
+Saitama Prefecture,Wako City,44500000.0,10,215.0,206976.7441860465
+Saitama Prefecture,Warabi City,31000000.0,17,85.0,364705.8823529412
+Shiga Prefecture,Hikone City,6000000.0,23,210.0,28571.428571428572
+Shiga Prefecture,Kusatsu City,14000000.0,15,170.0,82352.94117647059
+Shiga Prefecture,Nagahama City,5000000.0,13,210.0,23809.52380952381
+Shiga Prefecture,Otsu City,11000000.0,82,167.5,65671.64179104478
+Shimane Prefecture,Hamada City,5500000.0,45,190.0,28947.36842105263
+Shimane Prefecture,Izumo City,5000000.0,33,230.0,21739.130434782608
+Shimane Prefecture,Matsue City,8500000.0,50,150.0,56666.666666666664
+Shimane Prefecture,Oda City,4900000.0,10,325.0,15076.923076923076
+Shimane Prefecture,Unnan City,2750000.0,10,197.5,13924.050632911392
+Shizuoka Prefecture,"Aoi Ward,Shizuoka City",32000000.0,23,130.0,246153.84615384616
+Shizuoka Prefecture,Atami City,7400000.0,33,200.0,37000.0
+Shizuoka Prefecture,Fujinomiya City,10500000.0,14,175.0,60000.0
+Shizuoka Prefecture,Ito City,9000000.0,31,180.0,50000.0
+Shizuoka Prefecture,"Naka Ward,Hamamatsu City",21500000.0,32,117.5,182978.72340425532
+Shizuoka Prefecture,Numazu City,21000000.0,23,160.0,131250.0
+Shizuoka Prefecture,Shimada City,8000000.0,15,175.0,45714.28571428572
+Shizuoka Prefecture,"Shimizu Ward,Shizuoka City",6300000.0,24,135.0,46666.666666666664
+Shizuoka Prefecture,Shimoda City,6750000.0,14,212.5,31764.70588235294
+Shizuoka Prefecture,"Suruga Ward,Shizuoka City",16000000.0,24,145.0,110344.8275862069
+Shizuoka Prefecture,Yaizu City,4900000.0,18,195.0,25128.20512820513
+Tochigi Prefecture,Ashikaga City,3000000.0,28,190.0,15789.473684210527
+Tochigi Prefecture,Nikko City,3700000.0,10,155.0,23870.967741935485
+Tochigi Prefecture,Oyama City,6000000.0,11,330.0,18181.81818181818
+Tochigi Prefecture,Sano City,3500000.0,13,280.0,12500.0
+Tochigi Prefecture,Tochigi City,5000000.0,23,260.0,19230.76923076923
+Tochigi Prefecture,Utsunomiya City,13500000.0,34,197.5,68354.43037974683
+Tokushima Prefecture,Tokushima City,13000000.0,57,175.0,74285.71428571429
+Tokushima Prefecture,Yoshinogawa City,3150000.0,12,555.0,5675.675675675676
+Tokyo,Adachi Ward,24000000.0,114,97.5,246153.84615384616
+Tokyo,Akishima City,25000000.0,17,125.0,200000.0
+Tokyo,Arakawa Ward,24000000.0,73,70.0,342857.14285714284
+Tokyo,Bunkyo Ward,47000000.0,120,80.0,587500.0
+Tokyo,Chiyoda Ward,115000000.0,44,75.0,1533333.3333333333
+Tokyo,Chofu City,39500000.0,28,122.5,322448.97959183675
+Tokyo,Chuo Ward,130000000.0,101,65.0,2000000.0
+Tokyo,Edogawa Ward,24500000.0,84,90.0,272222.22222222225
+Tokyo,Fuchu City,37500000.0,30,120.0,312500.0
+Tokyo,Hachioji City,26500000.0,36,180.0,147222.22222222222
+Tokyo,Higashikurume City,25000000.0,16,112.5,222222.22222222222
+Tokyo,Higashimurayama City,30000000.0,20,132.5,226415.09433962265
+Tokyo,Hino City,20000000.0,17,185.0,108108.1081081081
+Tokyo,Itabashi Ward,24000000.0,110,95.0,252631.57894736843
+Tokyo,Katsushika Ward,26500000.0,84,100.0,265000.0
+Tokyo,Kita Ward,26000000.0,97,70.0,371428.5714285714
+Tokyo,Kodaira City,32000000.0,30,140.0,228571.42857142858
+Tokyo,Koganei City,43500000.0,12,160.0,271875.0
+Tokyo,Kokubunji City,28000000.0,21,145.0,193103.44827586206
+Tokyo,Komae City,37000000.0,16,135.0,274074.0740740741
+Tokyo,Koto Ward,40000000.0,84,75.0,533333.3333333334
+Tokyo,Machida City,35000000.0,32,170.0,205882.35294117648
+Tokyo,Meguro Ward,60000000.0,54,112.5,533333.3333333334
+Tokyo,Minato Ward,130000000.0,69,80.0,1625000.0
+Tokyo,Mitaka City,39000000.0,14,130.0,300000.0
+Tokyo,Musashino City,69000000.0,19,150.0,460000.0
+Tokyo,Nakano Ward,40500000.0,130,95.0,426315.7894736842
+Tokyo,Nerima Ward,25000000.0,211,105.0,238095.2380952381
+Tokyo,Nishitokyo City,26500000.0,26,115.0,230434.78260869565
+Tokyo,Ota Ward,44000000.0,194,110.0,400000.0
+Tokyo,Oume City,22000000.0,19,220.0,100000.0
+Tokyo,Setagaya Ward,61000000.0,149,125.0,488000.0
+Tokyo,Shibuya Ward,89000000.0,77,105.0,847619.0476190476
+Tokyo,Shinagawa Ward,47000000.0,123,90.0,522222.22222222225
+Tokyo,Shinjuku Ward,58000000.0,175,100.0,580000.0
+Tokyo,Suginami Ward,46000000.0,145,110.0,418181.8181818182
+Tokyo,Sumida Ward,43000000.0,131,100.0,430000.0
+Tokyo,Tachikawa City,17000000.0,11,95.0,178947.36842105264
+Tokyo,Taito Ward,55500000.0,184,75.0,740000.0
+Tokyo,Tama City,39500000.0,18,300.0,131666.66666666666
+Tokyo,Toshima Ward,41000000.0,106,82.5,496969.69696969696
+Tottori Prefecture,Tottori City,6200000.0,54,167.5,37014.92537313433
+Tottori Prefecture,Yonago City,6000000.0,37,240.0,25000.0
+Toyama Prefecture,Imizu City,2450000.0,30,112.5,21777.777777777777
+Toyama Prefecture,"Kamiichi Town,Nakaniikawa County",1700000.0,10,220.0,7727.272727272727
+Toyama Prefecture,Kurobe City,5500000.0,13,330.0,16666.666666666668
+Toyama Prefecture,Nanto City,3000000.0,14,215.0,13953.488372093023
+Toyama Prefecture,Takaoka City,5200000.0,77,165.0,31515.151515151516
+Toyama Prefecture,Toyama City,6850000.0,150,192.5,35584.41558441558
+Toyama Prefecture,Uozu City,5450000.0,20,152.5,35737.70491803279
+Wakayama Prefecture,Hashimoto City,3750000.0,10,215.0,17441.86046511628
+Wakayama Prefecture,Kainan City,7200000.0,15,230.0,31304.347826086956
+Wakayama Prefecture,Kinokawa City,3600000.0,14,210.0,17142.85714285714
+Wakayama Prefecture,Shingu City,5200000.0,29,145.0,35862.06896551724
+Wakayama Prefecture,Tanabe City,7000000.0,11,220.0,31818.18181818182
+Wakayama Prefecture,Wakayama City,5650000.0,108,162.5,34769.230769230766
+Yamagata Prefecture,Higashine City,5100000.0,10,335.0,15223.880597014926
+Yamagata Prefecture,Kaminoyama City,5000000.0,10,240.0,20833.333333333332
+Yamagata Prefecture,Nagai City,5250000.0,10,335.0,15671.641791044776
+Yamagata Prefecture,Sagae City,5600000.0,10,240.0,23333.333333333332
+Yamagata Prefecture,Sakata City,3200000.0,19,165.0,19393.939393939392
+Yamagata Prefecture,Shinjo City,3850000.0,10,197.5,19493.67088607595
+Yamagata Prefecture,Tsuruoka City,3450000.0,24,175.0,19714.285714285714
+Yamagata Prefecture,Yamagata City,5800000.0,51,170.0,34117.64705882353
+Yamagata Prefecture,Yonezawa City,6450000.0,16,350.0,18428.571428571428
+Yamaguchi Prefecture,Hagi City,4400000.0,13,210.0,20952.380952380954
+Yamaguchi Prefecture,Hofu City,2900000.0,24,202.5,14320.987654320988
+Yamaguchi Prefecture,Iwakuni City,6400000.0,64,190.0,33684.21052631579
+Yamaguchi Prefecture,Kudamatsu City,4150000.0,16,225.0,18444.444444444445
+Yamaguchi Prefecture,Nagato City,4000000.0,11,185.0,21621.62162162162
+Yamaguchi Prefecture,San-yoonoda City,3000000.0,19,270.0,11111.111111111111
+Yamaguchi Prefecture,Shimonoseki City,6800000.0,69,200.0,34000.0
+Yamaguchi Prefecture,Shunan City,8000000.0,43,200.0,40000.0
+Yamaguchi Prefecture,Ube City,3850000.0,66,300.0,12833.333333333334
+Yamaguchi Prefecture,Yamaguchi City,7200000.0,72,255.0,28235.29411764706
+Yamaguchi Prefecture,Yanai City,4300000.0,11,280.0,15357.142857142857
+Yamanashi Prefecture,Kofu City,5800000.0,49,170.0,34117.64705882353
